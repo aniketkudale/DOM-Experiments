@@ -1,0 +1,28 @@
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background: #555;
+    overflow: auto;
+    height: 90px;
+}
+
+.navbar a {
+    font-size: 36px;
+    float: left;
+    width: 20%;
+    padding: 20px 0px;
+    text-decoration: none;
+    text-align: center;
+    color: #ffffff;
+}
+
+.navbar a:hover {
+    background: #0081cb;
+}
+
+.navbar a.active {
+    background: #0081cb;
+}
+
+
