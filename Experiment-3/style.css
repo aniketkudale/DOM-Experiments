@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+}
+
+.container .menu {
+    margin-left: 20px;
+    
+}
+
+.container .menu-animated {
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.menu {
+    height: 8px;
+    background: #0081cb;
+    width: 50px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.menu-dash {
+    height: 8px;
+    background: #0081cb;
+    width: 50px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.menu-dash-1, .menu-dash-2, .menu-dash-3 {
+    height: 8px;
+    background: #0081cb;
+    width: 50px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    transition: 0.4s;
+}
+
+.change .menu-dash-1 {
+    transform: rotate(-45deg) translate(-13px, 6px);
+}
+
+.change .menu-dash-2 {
+    opacity: 0;
+}
+
+.change .menu-dash-3 {
+    transform: rotate(45deg) translate(8px, 8px);
+    margin: -23px -5px;
+}
