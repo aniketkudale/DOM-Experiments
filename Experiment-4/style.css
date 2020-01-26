@@ -1,0 +1,38 @@
+.accordian {
+    width: 100%;
+    padding: 18px;
+    border: none;
+    outline: none;
+    text-align: left;
+    background: #0081cb99;
+    color: #ffffff;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.accordian:after {
+    content: '\02795';
+    font-size: 13px;
+    color: white !important;
+    float: right;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.active, .accordian:hover {
+    background: #0081cb;
+}
+
+.panel {
+    background-color: #ffffff;
+    overflow: hidden;
+    max-height: 0px;
+    transition: max-height 0.4s ease-out;
+}
+
+.panel div {
+    margin: 18px;
+}
+
