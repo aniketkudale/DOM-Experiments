@@ -1,0 +1,12 @@
+li {
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul li::before {
+    content: "\2022";
+    font-weight: bold;
+    width: 1em;
+    display: inline-block;
+    color: #0081cb
+}
