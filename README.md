@@ -6,3 +6,4 @@
  - [Accordian](https://aniketkudale.github.io/Experiment-4/)
  - [Bullet Color](https://aniketkudale.github.io/Experiment-5/)
  - [Hover Zoom](https://aniketkudale.github.io/Experiment-6/)
+ - [Flat Button](https://aniketkudale.github.io/Experiment-7/)

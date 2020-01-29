@@ -1,0 +1,48 @@
+.btn {
+  border: none;
+  padding: 14px 28px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.success:hover {
+  background: #55e6c1;
+}
+
+.success {
+  background: #58b19f;
+}
+
+.info:hover {
+  background: #25ccf7;
+}
+
+.info {
+  background: #1b9cfc;
+}
+
+.warning:hover {
+  background: #fea47f;
+}
+
+.warning {
+  background: #f97f51;
+}
+
+.danger:hover {
+  background: #fd7272;
+}
+
+.danger {
+  background: #fc427b;
+}
+
+.default:hover {
+  background: #cad3c8;
+}
+
+.default {
+  background: #2c3a47;
+}
