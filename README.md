@@ -7,3 +7,4 @@
  - [Bullet Color](https://aniketkudale.github.io/Experiment-5/)
  - [Hover Zoom](https://aniketkudale.github.io/Experiment-6/)
  - [Flat Button](https://aniketkudale.github.io/Experiment-7/)
+ - [Tabs](https://aniketkudale.github.io/Experiment-8/)
