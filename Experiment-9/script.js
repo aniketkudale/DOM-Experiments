@@ -6,8 +6,8 @@ function run() {
 
 function tabOpen(event) {
     var i;
-    var tabLinks = document.getElementsByClassName('tabLinks');
-    var tabContent = document.getElementsByClassName('tab-content');
+    var tabLinks = document.getElementsByClassName('tablinks');
+    var tabContent = document.getElementsByClassName('tabcontent');
 
     for (i = 0; i < tabLinks.length; i++) {
         tabLinks[i].className = tabLinks[i].className.replace(" active", "");
