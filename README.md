@@ -9,3 +9,4 @@
  - [Flat Button](https://aniketkudale.github.io/Experiment-7/)
  - [Tabs](https://aniketkudale.github.io/Experiment-8/index.html)
  - [Vertical Tabs](https://aniketkudale.github.io/Experiment-9/index.html)
+ - [Loading Spinner](https://aniketkudale.github.io/Experiment-10/index.html)
