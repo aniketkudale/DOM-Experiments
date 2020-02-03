@@ -11,3 +11,4 @@
  - [Vertical Tabs](https://aniketkudale.github.io/Experiment-9/index.html)
  - [Loading Spinner](https://aniketkudale.github.io/Experiment-10/index.html)
  - [Flat Outline Buttons](https://aniketkudale.github.io/Experiment-11/index.html)
+ - [Heart Icon](https://aniketkudale.github.io/Experiment-12/index.html)

@@ -1,0 +1,31 @@
+* {
+  box-sizing: content-box;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.heart {
+  width: 40px;
+  height: 40px;
+  background: red;
+  margin: 20px;
+  transform: rotate(45deg);
+  position: absolute;
+}
+.heart::after,
+.heart::before {
+  content: '';
+  height: 40px;
+  width: 40px;
+  background: red;
+  position: absolute;
+  border-radius: 50%;
+}
+.heart::after {
+  left: -20px;
+}
+.heart::before {
+  top: -20px
+}
