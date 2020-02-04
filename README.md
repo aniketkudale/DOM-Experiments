@@ -12,3 +12,4 @@
  - [Loading Spinner](https://aniketkudale.github.io/Experiment-10/index.html)
  - [Flat Outline Buttons](https://aniketkudale.github.io/Experiment-11/index.html)
  - [Heart Icon](https://aniketkudale.github.io/Experiment-12/index.html)
+ - [Social Media Icons](https://aniketkudale.github.io/Experiment-13/index.html)
