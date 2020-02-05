@@ -1,0 +1,14 @@
+.btn {
+    border: none;
+    outline: none;
+    color: #ffffff;
+    background-color: #0081cb;
+    font-size: 14px;
+    padding: 14px 10px;
+}
+
+.btn1 { border-radius: 2px;}
+.btn2 { border-radius: 4px;}
+.btn3 { border-radius: 8px;}
+.btn4 { border-radius: 12px;}
+.btn5 { border-radius: 50%;}
