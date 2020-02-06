@@ -1,0 +1,1 @@
+Mouse Coordinates Tooltip Example
