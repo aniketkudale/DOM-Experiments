@@ -1,0 +1,48 @@
+.btn {
+    border: none;
+    padding: 14px 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    background: inherit;
+}
+
+.success:hover {
+    background: #eeeeee;
+}
+
+.success {
+    color: #58b19f;
+}
+
+.info:hover {
+    background: #eeeeee;
+}
+
+.info {
+    color: #1b9cfc;
+}
+
+.warning:hover {
+    background: #eeeeee;
+}
+
+.warning {
+    color: #f97f51;
+}
+
+.danger:hover {
+    background: #eeeeee;
+}
+
+.danger {
+    color: #fc427b;
+}
+
+.default:hover {
+    background: #eeeeee;
+}
+
+.default {
+    color: #2c3a47;
+}
