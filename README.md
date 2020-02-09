@@ -17,5 +17,6 @@
  - [Mouse Coordinates Tooltip Example](https://aniketkudale.github.io/Experiment-15/index.html)
  - [Text Buttons](https://aniketkudale.github.io/Experiment-16/index.html)
  - [Show More Example](https://aniketkudale.github.io/Experiment-17/index.html)
+ - [Contact Chips Example](https://aniketkudale.github.io/Experiment-18/index.html)
 
 
