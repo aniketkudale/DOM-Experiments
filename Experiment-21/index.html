@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. 
+                Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <div id="london" class="tab-content">
+        <h1>London</h1>
+        <p>London is capital of England</p>
+    </div>
+    <div id="paris" class="tab-content">
+        <h1>Paris</h1>
+        <p>Paris is capital of France</p>
+    </div>
+    <div id="tokyo" class="tab-content">
+        <h1>Tokyo</h1>
+        <p>Tokyo is capital of Japan</p>
+    </div>
+    <div id="oslo" class="tab-content">
+        <h1>Oslo</h1>
+        <p>Oslo is capital of Norway</p>
+    </div>
+    <button class="tablink" onclick="openTab('london', this, 'red')">London</button>
+    <button class="tablink" onclick="openTab('paris', this, 'green')">Paris</button>
+    <button class="tablink" onclick="openTab('tokyo', this, 'blue')">Tokyo</button>
+    <button class="tablink" onclick="openTab('oslo', this, 'orange')">Oslo</button>
+
+    <script src="script.js" async defer></script>
+</body>
+
+</html>
