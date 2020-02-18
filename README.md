@@ -25,5 +25,6 @@
  - [Top Navigation Bar](https://aniketkudale.github.io/Experiment-23/index.html)
  - [Shake Image](https://aniketkudale.github.io/Experiment-24/index.html)
  - [Responsive Top Navigation Bar](https://aniketkudale.github.io/Experiment-25/index.html)
+ - [Google Fonts](https://aniketkudale.github.io/Experiment-26/index.html)
 
 
