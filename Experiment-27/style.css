@@ -1,0 +1,27 @@
+#mySearch {
+    width: 100%;
+    font-size: 18px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+#myMenu {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+#myMenu li a {
+    padding: 12px;
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+#myMenu li a:hover {
+    background-color: #eee;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
