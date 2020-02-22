@@ -1,0 +1,41 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.side-nav {
+    position: fixed;
+    width: 160px;
+    height: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.side-nav a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 12px 10px 12px;
+    font-size: 25px;
+}
+
+.side-nav a:hover {
+    background-color: #0081cb;
+}
+
+.main {
+    margin-left: 160px;
+    padding: 12px;
+}
+
+@media screen and (max-height: 450px) {
+    .side-nav {
+        padding-top: 15px;
+    }
+    .side-nav a {
+        font-size: 18px;
+    }
+}
