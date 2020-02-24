@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.side-nav {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    background-color: #222222;
+}
+
+.side-nav a {
+    display: block;
+    text-decoration: none;
+    padding: 16px;
+    color: #fff;
+}
+
+.active {
+    background-color: #0081cb;
+}
+
+.side-nav a:hover {
+    background-color: #0081cb;
+}
+
+.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+}
+
+@media screen and (max-width: 700px) {
+    .side-nav {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+    .side-nav a {
+        float: left;
+    }
+    .content {
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .side-nav a {
+        float: none;
+        text-align: center;
+    }
+}
