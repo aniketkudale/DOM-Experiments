@@ -31,5 +31,6 @@
  - [Fixed Side Bar](https://aniketkudale.github.io/Experiment-29/index.html)
  - [Side Nav](https://aniketkudale.github.io/Experiment-30/index.html)
  - [Responsive Side Nav](https://aniketkudale.github.io/Experiment-31/index.html)
+ - [Full Screen Navigation](https://aniketkudale.github.io/Experiment-32/index.html)
 
 
