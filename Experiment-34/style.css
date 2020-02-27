@@ -1,0 +1,22 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mySideNav a {
+    text-decoration: none;
+    display: block;
+    padding: 12px;
+    background-color: #0081cb;
+    width: 120px;
+    text-align: center;
+    margin-bottom: 40px;
+    border-radius: 0 10px 10px 0;
+    color: #fff;
+    left: -120px;
+    position: relative;
+    transition: 0.5s;
+}
+
+.mySideNav a:hover {
+    left: -10px;
+}
