@@ -1,0 +1,26 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.scrollMenu {
+    background-color: #333;
+    height: auto;
+    white-space: nowrap;
+    overflow: auto;
+    width: 400px;
+}
+
+.scrollMenu a {
+    text-decoration: none;
+    color: #fff;
+    padding: 14px;
+    display: inline-block;
+    text-align: center;
+}
+
+.scrollMenu a:hover {
+    background-color: #0081cb;
+    ;
+}
