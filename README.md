@@ -35,5 +35,7 @@
  - [Off Canvas Menu](https://aniketkudale.github.io/Experiment-33/index.html)
  - [Hover SideNav Buttons](https://aniketkudale.github.io/Experiment-34/index.html)
  - [Horizontal Scroll Menu](https://aniketkudale.github.io/Experiment-35/index.html)
+ - [Vertical Menu](https://aniketkudale.github.io/Experiment-36/index.html)
+
 
 
