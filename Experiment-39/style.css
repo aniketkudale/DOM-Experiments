@@ -1,0 +1,30 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+.main {
+    padding: 20px;
+}
+
+.nav-bar {
+    position: fixed;
+    bottom: 5px;
+    background-color: #333;
+    width: 100%;
+    text-align: right;
+}
+
+.nav-bar a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+    display: inline-block;
+    border-bottom: 4px solid transparent;
+}
+
+.nav-bar a:hover {
+    border-bottom: 4px solid #0081cb;
+}
