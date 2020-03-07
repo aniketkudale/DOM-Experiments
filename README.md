@@ -40,6 +40,7 @@
  - [Responsive Bottom Navigation Bar](https://aniketkudale.github.io/Experiment-38/index.html)
  - [Bottom Border Nav Links](https://aniketkudale.github.io/Experiment-39/index.html)
  - [Equal Width Menu](https://aniketkudale.github.io/Experiment-40/index.html)
+ - [Fixed Nav Bar](https://aniketkudale.github.io/Experiment-41/index.html)
 
 
 

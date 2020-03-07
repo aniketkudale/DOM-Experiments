@@ -1,0 +1,30 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+.nav-bar {
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    background-color: #333;
+    top: 0;
+    left: 0;
+}
+
+.nav-bar a {
+    text-decoration: none;
+    color: #fff;
+    float: left;
+    padding: 12px;
+}
+
+.nav-bar a:hover {
+    background-color: #0081cb;
+}
+
+.main {
+    margin-top: 12px;
+    position: absolute;
+    height: 2000px;
+}
