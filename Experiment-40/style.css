@@ -1,0 +1,35 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+.nav-bar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+  display: block; 
+}
+
+.nav-bar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  width: 25%; 
+  text-align: center;
+ 
+}
+
+.nav-bar a:hover {
+  background-color: #0081cb;
+}
+
+@media screen and (max-width: 500px) {
+  .nav-bar a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: left; 
+  }
+}
