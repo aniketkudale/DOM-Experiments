@@ -42,6 +42,8 @@
  - [Equal Width Menu](https://aniketkudale.github.io/Experiment-40/index.html)
  - [Fixed Nav Bar](https://aniketkudale.github.io/Experiment-41/index.html)
  - [Show Nav Bar on Scroll](https://aniketkudale.github.io/Experiment-42/index.html)
+ - [Hide Nav Bar on Scroll](https://aniketkudale.github.io/Experiment-43/index.html)
+
 
 
 
