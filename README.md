@@ -43,7 +43,8 @@
  - [Fixed Nav Bar](https://aniketkudale.github.io/Experiment-41/index.html)
  - [Show Nav Bar on Scroll](https://aniketkudale.github.io/Experiment-42/index.html)
  - [Hide Nav Bar on Scroll](https://aniketkudale.github.io/Experiment-43/index.html)
-
+ - [Shrink Nav Bar on Scroll ](https://aniketkudale.github.io/Experiment-44/index.html)
+ - [Sticky Navbar](https://aniketkudale.github.io/Experiment-45/index.html)
 
 
 
