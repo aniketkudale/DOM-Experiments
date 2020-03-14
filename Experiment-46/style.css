@@ -26,6 +26,7 @@
     left: 10px;
     z-index: 1;
     top: 47px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
 .drop-down-content a {
