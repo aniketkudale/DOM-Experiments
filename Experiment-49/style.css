@@ -1,0 +1,62 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    margin-left: 200px;
+    padding: 20px;
+}
+
+.sidebar {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #333;
+    overflow: hidden;
+    padding-top: 20px;
+}
+
+.sidebar a,
+.drop-btn {
+    border: none;
+    outline: none;
+    background: none;
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    width: 100%;
+    font-size: 20px;
+    text-align: left;
+    cursor: pointer;
+    padding: 6px 8px 6px 16px;
+}
+
+.sidebar a:hover,
+.drop-btn:hover {
+    background-color: #0081cb;
+}
+
+.active {
+    background-color: #0081cb;
+}
+
+.show {
+    display: block !important;
+}
+
+.dropdown-container {
+    display: none;
+    background-color: #262626;
+    padding-left: 8px;
+}
+
+.fa-caret-down {
+    float: right;
+    padding-right: 8px;
+}
