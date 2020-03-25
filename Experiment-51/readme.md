@@ -1,1 +1,1 @@
-Example
+Curtain Menu Example

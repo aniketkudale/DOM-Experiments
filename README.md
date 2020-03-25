@@ -51,3 +51,4 @@
  - [Sidebar Dropdown](https://aniketkudale.github.io/Experiment-49/index.html)
  - [Responsive Topnav Dropdown](https://aniketkudale.github.io/Experiment-50/index.html)
  - [Curtain Menu](https://aniketkudale.github.io/Experiment-51/index.html)
+ - [Pagination UI](https://aniketkudale.github.io/Experiment-52/index.html)
