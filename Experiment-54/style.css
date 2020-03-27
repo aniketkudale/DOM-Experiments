@@ -1,0 +1,25 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pill-nav {
+    margin-top: 20px;
+}
+
+.pill-nav a {
+    display: inline;
+    text-decoration: none;
+    text-align: center;
+    padding: 14px;
+    color: #000;
+    font-size: 17px;
+    border-radius: 5px;
+}
+
+.pill-nav a:hover {
+    background-color: #0081cb;
+    color: #fff;
+}
