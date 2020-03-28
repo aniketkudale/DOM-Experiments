@@ -1,0 +1,26 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn-group {
+    width: 100%;
+} 
+
+.btn-group button {
+    border: 1px solid #fff;
+    margin: 0;
+    padding: 10px 24px;
+    float: left;
+    color: #fff;
+    background-color: #0081cb;
+    cursor: pointer;
+    width: 33.30%;
+}
+
+.btn-group button:not(:last-child) {
+    border-right: none;
+}
+
