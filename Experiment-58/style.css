@@ -1,0 +1,21 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn {
+    background-color: #0081cb;
+    color: #fff;
+    padding: 12px 16px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: RoyalBlue;
+}
