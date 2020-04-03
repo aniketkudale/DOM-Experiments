@@ -1,0 +1,21 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.anime {
+    padding: 12px 16px;
+    margin: 20px;
+    border: none;
+    background-color: #0081cb;
+    color: #fff;
+    box-shadow: 0 9px #333;
+    cursor: pointer;
+}
+
+.anime:active {
+    box-shadow: 0px 4px #333;
+    transform: translateY(5px);
+}
