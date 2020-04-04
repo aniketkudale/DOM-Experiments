@@ -1,0 +1,42 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn {
+    margin: 10px;
+    padding: 12px 16px;
+    border: none;
+    background-color: #0081cb;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.btn span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.btn:hover span {
+    padding-right: 25px;
+}
+
+.btn span:after {
+    content: '>';
+    position: absolute;
+    margin-left: 2px;
+    transition: 0.5s;
+    opacity: 0;
+    top: 0;
+    right: -20px;   
+}
+
+.btn:hover span:after {
+    opacity: 1;
+    right: 0;
+}
