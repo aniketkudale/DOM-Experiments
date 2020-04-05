@@ -63,3 +63,4 @@
  - [Download Button](https://aniketkudale.github.io/Experiment-58/index.html)
  - [Animated Pressed Button](https://aniketkudale.github.io/Experiment-59/index.html)
  - [Animated Hover Button](https://aniketkudale.github.io/Experiment-60/index.html)
+ - [Animated Ripple Button](https://aniketkudale.github.io/Experiment-61/index.html)
