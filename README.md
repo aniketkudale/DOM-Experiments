@@ -65,3 +65,4 @@
  - [Animated Hover Button](https://aniketkudale.github.io/Experiment-60/index.html)
  - [Animated Ripple Button](https://aniketkudale.github.io/Experiment-61/index.html)
  - [Fade-In Button](https://aniketkudale.github.io/Experiment-62/index.html)
+ - [Loading Button](https://aniketkudale.github.io/Experiment-63/index.html)
