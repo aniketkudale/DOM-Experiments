@@ -69,3 +69,4 @@
  - [Download Button](https://aniketkudale.github.io/Experiment-64/index.html)
  - [Notification Button](https://aniketkudale.github.io/Experiment-65/index.html)
  - [Block Button](https://aniketkudale.github.io/Experiment-66/index.html)
+ - [Pill Button](https://aniketkudale.github.io/Experiment-67/index.html)
