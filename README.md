@@ -71,3 +71,4 @@
  - [Block Button](https://aniketkudale.github.io/Experiment-66/index.html)
  - [Pill Button](https://aniketkudale.github.io/Experiment-67/index.html)
  - [Image Button](https://aniketkudale.github.io/Experiment-68/index.html)
+ - [Next Previous Button](https://aniketkudale.github.io/Experiment-69/index.html)
