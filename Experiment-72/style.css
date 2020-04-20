@@ -1,0 +1,26 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.solid {
+    border: 2px solid #000;
+    margin: 20px;
+}
+
+.dashed {
+    border: 2px dashed #000;
+    margin: 20px;
+}
+
+.rounded {
+    border: 2px rounded #000;
+    margin: 20px;
+}
+
+.dotted {
+    border: 2px dotted #000;
+    margin: 20px;
+}
