@@ -78,3 +78,4 @@
   ## **Miscellaneous**
 
    - [Dividers](https://aniketkudale.github.io/Experiment-72/index.html)
+   - [Caps Lock Detect](https://aniketkudale.github.io/Experiment-73/index.html)
