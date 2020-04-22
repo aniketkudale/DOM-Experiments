@@ -1,0 +1,1 @@
+Clear Input Field Example
