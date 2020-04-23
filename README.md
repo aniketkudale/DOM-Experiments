@@ -80,3 +80,4 @@
    - [Dividers](https://aniketkudale.github.io/Experiment-72/index.html)
    - [Caps Lock Detect](https://aniketkudale.github.io/Experiment-73/index.html)
    - [Clear Input Field](https://aniketkudale.github.io/Experiment-74/index.html)
+   - [Number Field](https://aniketkudale.github.io/Experiment-75/index.html)
