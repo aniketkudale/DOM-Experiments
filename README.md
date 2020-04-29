@@ -83,3 +83,6 @@
    - [Number Field](https://aniketkudale.github.io/Experiment-75/index.html)
    - [Copy From Input Field](https://aniketkudale.github.io/Experiment-76/index.html)
    - [Animated Search Field](https://aniketkudale.github.io/Experiment-77/index.html)
+   
+   ## License
+   MIT © 2020 Aniket Kudale
