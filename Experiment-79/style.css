@@ -1,0 +1,29 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 20px;
+}
+
+#myInput {
+    height: 30px;
+    border: 1px solid #0081cb;
+    padding: 10px;
+}
+
+button {
+    height: 30px;
+    border: none;
+    padding: 0px 10px;
+    background: #0081cb;
+    color: #fff;
+    cursor: pointer;
+}
+
+h6 {
+    margin: 20px;
+}
