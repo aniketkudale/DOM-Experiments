@@ -1,0 +1,23 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form {
+    border: 1px solid #0081cb;
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+input#upload_button {
+    border: none;
+    padding: 10px 10px;
+    background-color: #0081cb;
+    color: #fff;
+    cursor: pointer;
+}
+
