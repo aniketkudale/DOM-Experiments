@@ -86,6 +86,7 @@
    - [Search Button](https://aniketkudale.github.io/Experiment-78/index.html)
    - [Input Empty Validation](https://aniketkudale.github.io/Experiment-79/index.html)
    - [File Upload Example](https://aniketkudale.github.io/Experiment-80/index.html)
+   - [Spell Check Example](https://aniketkudale.github.io/Experiment-81/index.html)
    
    ## License
    MIT © 2020 Aniket Kudale
