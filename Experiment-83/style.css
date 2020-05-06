@@ -1,0 +1,13 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#pass {
+    margin: 20px;
+    height: 30px;
+    padding: 10px;
+    border: 1px solid #0081cb ;
+}
