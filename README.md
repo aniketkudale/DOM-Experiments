@@ -90,6 +90,7 @@
    - [Auto Complete](https://aniketkudale.github.io/Experiment-82/index.html)
    - [Toggle Password Visibility](https://aniketkudale.github.io/Experiment-83/index.html)
    - [Trigger Button on Enter](https://aniketkudale.github.io/Experiment-84/index.html)
+   - [Scroll Indicator](https://aniketkudale.github.io/Experiment-85/index.html)
    
    ## License
    MIT © 2020 Aniket Kudale
