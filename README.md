@@ -92,6 +92,7 @@
    - [Trigger Button on Enter](https://aniketkudale.github.io/Experiment-84/index.html)
    - [Scroll Indicator](https://aniketkudale.github.io/Experiment-85/index.html)
    - [Progress Bar](https://aniketkudale.github.io/Experiment-86/index.html)
+   - [Skill Bar](https://aniketkudale.github.io/Experiment-87/index.html)
    
    ## License
    MIT © 2020 Aniket Kudale
