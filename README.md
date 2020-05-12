@@ -93,6 +93,7 @@
    - [Scroll Indicator](https://aniketkudale.github.io/Experiment-85/index.html)
    - [Progress Bar](https://aniketkudale.github.io/Experiment-86/index.html)
    - [Skill Bar](https://aniketkudale.github.io/Experiment-87/index.html)
+   - [Display Element Hover](https://aniketkudale.github.io/Experiment-88/index.html)
    
    ## License
    MIT © 2020 Aniket Kudale

@@ -1,0 +1,15 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hidden-text {
+    display: none;
+    color: #ff0000;
+}
+
+.header:hover + .hidden-text {
+    display: block;
+}
