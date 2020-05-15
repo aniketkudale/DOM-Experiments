@@ -95,6 +95,7 @@
    - [Skill Bar](https://aniketkudale.github.io/Experiment-87/index.html)
    - [Display Element Hover](https://aniketkudale.github.io/Experiment-88/index.html)
    - [Slider](https://aniketkudale.github.io/Experiment-89/index.html)
+   - [Star Rating](https://aniketkudale.github.io/Experiment-90/index.html)
    
    ## License
    MIT © 2020 Aniket Kudale
