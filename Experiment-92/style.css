@@ -1,0 +1,41 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+.circles:nth-child(1) {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.circles:nth-child(2) {
+    background-color: Blue;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.circles:nth-child(3) {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.circles:nth-child(4) {
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.circles:nth-child(5) {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
