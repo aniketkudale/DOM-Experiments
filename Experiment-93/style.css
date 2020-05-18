@@ -1,0 +1,38 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;
+}
+
+.glowing {
+    font-size: 62px;
+    text-align: center;
+    color: #fff;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 10px #fff, 
+                   0 0 20px #fff, 
+                   0 0 30px #0081cb, 
+                   0 0 40px #0081cb, 
+                   0 0 50px #0081cb, 
+                   0 0 60px #0081cb, 
+                   0 0 70px #0081cb;
+    }
+    to {
+      text-shadow: 0 0 20px #fff, 
+                   0 0 30px #4da0ff, 
+                   0 0 40px #4da0ff, 
+                   0 0 50px #4da0ff, 
+                   0 0 60px #4da0ff, 
+                   0 0 70px #4da0ff, 
+                   0 0 80px #4da0ff;
+    }
+  }

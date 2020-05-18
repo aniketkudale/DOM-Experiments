@@ -98,6 +98,7 @@
    - [Star Rating](https://aniketkudale.github.io/Experiment-90/index.html)
    - [Flip Card](https://aniketkudale.github.io/Experiment-91/index.html)
    - [Circles](https://aniketkudale.github.io/Experiment-92/index.html)
+   - [Glowing Text](https://aniketkudale.github.io/Experiment-93/index.html)
    
    ## License
    MIT © 2020 Aniket Kudale
