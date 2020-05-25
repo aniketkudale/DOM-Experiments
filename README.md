@@ -101,6 +101,7 @@
    - [Glowing Text](https://aniketkudale.github.io/Experiment-93/index.html)
    - [Toggle Dark Mode](https://aniketkudale.github.io/Experiment-94/index.html)
    - [Offline Detection](https://aniketkudale.github.io/Experiment-95/index.html)
+   - [Text Selection](https://aniketkudale.github.io/Experiment-96/index.html)
    
    ## License
    MIT © 2020 Aniket Kudale
