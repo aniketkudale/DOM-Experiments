@@ -1,0 +1,17 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+::placeholder {
+    color: #0081cb;
+    opacity: 0.8;
+}
+
+input {
+    height: 30px;
+    width: 100%;
+    padding: 10px;;
+}
