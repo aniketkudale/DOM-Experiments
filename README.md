@@ -106,6 +106,7 @@
    - [Arrows](https://aniketkudale.github.io/Experiment-98/index.html)
    - [Placeholder Color](https://aniketkudale.github.io/Experiment-99/index.html)
    - [Notes](https://aniketkudale.github.io/Experiment-100/index.html)
+   - [Chat Messages](https://aniketkudale.github.io/Experiment-101/index.html)
    
    ## License
    MIT © 2020 Aniket Kudale
