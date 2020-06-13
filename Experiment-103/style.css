@@ -1,0 +1,23 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.postit {
+    position: absolute;
+    z-index: 9;
+    height: 200px;
+    width: 200px;
+    background-color: #FFFF0069;
+    padding: 10px;
+    box-shadow: rgb(236, 236, 236) 3px 4px 3px 0px;
+}
+
+.text {
+    max-width: 200px;
+    max-height: 200px;
+    word-wrap: break-word;
+    overflow-y: auto;
+}
