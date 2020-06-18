@@ -1,0 +1,41 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media only screen and (min-width: 600px) {
+    body::before {
+        background-color: red;
+        content: 'Phones'
+    }
+}
+
+@media only screen and (min-width: 650px) {
+    body::before {
+        background-color: green;
+        content: 'Potrait Tablets'
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    body::before {
+        background-color: blue;
+        content: 'Landscape Tablets'
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    body::before {
+        background-color: orange;
+        content: 'Laptop / Desktop'
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    body::before {
+        background-color: red;
+        content: 'Large Laptops'
+    }
+}
