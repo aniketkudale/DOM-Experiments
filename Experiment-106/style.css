@@ -1,0 +1,36 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 0 50px;
+}
+
+.row {
+    margin: 0 -5px;
+}
+
+.row:after {
+    content: '';
+    display: table;
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+        display: block;
+        clear: both;
+    }
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #444;
+    color: #fff;
+    margin-bottom: 10px;
+}
