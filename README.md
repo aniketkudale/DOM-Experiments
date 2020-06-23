@@ -112,7 +112,8 @@
    - [Text Typer](https://aniketkudale.github.io/Experiment-104/index.html)
    - [Typical Device Breakpoint](https://aniketkudale.github.io/Experiment-105/index.html)
    - [Section Counter](https://aniketkudale.github.io/Experiment-106/index.html)
-   - [Gradient Scroll](https://aniketkudale.github.io/Experiment-106/index.html)
+   - [Gradient Scroll](https://aniketkudale.github.io/Experiment-107/index.html)
+   - [Toggle Like and Dislike](https://aniketkudale.github.io/Experiment-108/index.html)
    
    ## License
    MIT © 2020 Aniket Kudale
