@@ -1,0 +1,1 @@
+Remove Object Property Example
