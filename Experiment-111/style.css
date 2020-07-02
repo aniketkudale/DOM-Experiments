@@ -1,0 +1,30 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+img {
+  border: 5px solid black;
+  box-shadow: 3px 3px 10px #e2e2e2;
+  border-radius: 50%;
+  box-sizing: border-box;
+  filter: blur(4px);
+  transition: all 1s;
+  cursor: pointer;
+}
+
+img:hover {
+  filter: blur(0px);
+  transition: all 1s;
+  cursor: pointer;
+  border-radius: 0%;
+}
