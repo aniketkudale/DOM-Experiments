@@ -117,6 +117,7 @@
 - [Detect Browser Dark Mode](https://aniketkudale.github.io/Experiment-109/index.html)
 - [Remove Object Property](https://aniketkudale.github.io/Experiment-110/index.html)
 - [Border Around Image](https://aniketkudale.github.io/Experiment-111/index.html)
+- [Blur Background Image](https://aniketkudale.github.io/Experiment-112/index.html)
 
 ## License
 

@@ -1,0 +1,1 @@
+Blur Background Image Example
