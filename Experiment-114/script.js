@@ -25,4 +25,4 @@ for (const menuItem of menuItems) {
 }
 
 const menu = document.getElementsByClassName("menu")[0];
-menu.onmouseleave = hideSubmenu;
+menu.onmouseleave = hideSubmenu; of react

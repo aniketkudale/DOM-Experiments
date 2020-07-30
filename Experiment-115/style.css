@@ -4,3 +4,37 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+ul, #myUL {
+    list-style-type: none;
+}
+
+#myUL {
+    margin: 0;
+    padding: 0;
+}
+
+.caret {
+    cursor: pointer;
+    user-select: none;
+}
+
+.caret::before {
+    content: '\25B6';
+    display: inline-block;
+    margin-right: 6px;
+}
+
+.caret-down::before {
+    transform: rotate(90deg);
+}
+
+.nested {
+    margin-left: 20px;
+    display: none;
+}
+
+.active {
+  margin-left: 20px;
+  display: block;
+}
