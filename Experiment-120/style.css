@@ -1,0 +1,43 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.rows {
+  display: flex;
+  width: 100%;
+  height: 150px;
+  justify-content: center;
+}
+
+.cols {
+  margin: 10px;
+  cursor: pointer;
+}
+
+.cols:hover {
+  opacity: 0.8;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 40px;
+  transform: 0.4 all;
+}
+
+.animate-custom {
+    animation: zoom-in 1s;
+}
+
+@keyframes zoom-in {
+  0% {
+    transform: scale(0.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

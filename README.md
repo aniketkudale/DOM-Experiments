@@ -128,6 +128,7 @@
 - [Modal Image](https://aniketkudale.github.io/Experiment-117/index.html)
 - [Responsive Image Grid](https://aniketkudale.github.io/Experiment-118/index.html)
 - [Image Grid](https://aniketkudale.github.io/Experiment-119/index.html)
+- [Tab Gallery](https://aniketkudale.github.io/Experiment-120/index.html)
 
 ## License
 
