@@ -130,6 +130,7 @@
 - [Image Grid](https://aniketkudale.github.io/Experiment-119/index.html)
 - [Tab Gallery](https://aniketkudale.github.io/Experiment-120/index.html)
 - [100 Color Shades](https://aniketkudale.github.io/Experiment-121/index.html)
+- [HTML5 Color List](https://aniketkudale.github.io/Experiment-122/index.html)
 
 ## License
 
