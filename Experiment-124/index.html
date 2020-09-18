@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+  <!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title></title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <!--[if lt IE 7]>
+      <p class="browsehappy">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="#">upgrade your browser</a> to improve your experience.
+      </p>
+    <![endif]-->
+    <div class="container">
+      <h2 class="title">Debounce</h2>
+      <h4 class="subtitle">
+        Debouncing enforces that a function not be called again until a certain
+        amount of time has passed without it being called. As in “execute this
+        function only if 500 milliseconds have passed without it being called.”
+        <span class="hint"
+          >(Scroll or move mouse wheel in the canvas below)</span
+        >
+      </h4>
+      <canvas id="debounce_canvas" width="1024px" height="260px"></canvas>
+
+      <h2 class="title">Throttle</h2>
+      <h4 class="subtitle">
+        Throttling enforces a maximum number of times a function can be called
+        over time. As in “execute this function at most once every 500
+        milliseconds.”
+      </h4>
+      <canvas id="throttle_canvas" width="1024px" height="260px"></canvas>
+    </div>
+    <script src="script.js" defer></script>
+  </body>
+</html>
