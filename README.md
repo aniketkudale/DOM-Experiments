@@ -133,6 +133,7 @@
 - [HTML5 Color List](https://aniketkudale.github.io/Experiment-122/index.html)
 - [HTML5 Color Never Ending List](https://aniketkudale.github.io/Experiment-123/index.html)
 - [Debounce vs Throttle](https://aniketkudale.github.io/Experiment-124/index.html)
+- [Click to Blur](https://aniketkudale.github.io/Experiment-125/index.html)
 
 ## License
 

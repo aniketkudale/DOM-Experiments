@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+  box-sizing:border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  cursor: pointer;
+  cursor: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PGc+PHBhdGggZD0iTTAuNTE1LDIzLjk0NGMtMC4xMzQsMC0wLjI2LTAuMDUyLTAuMzU0LTAuMTQ3Yy0wLjA5NC0wLjA5NS0wLjE0Ni0wLjIyMS0wLjE0Ni0wLjM1NGMwLTAuMTM0LDAuMDUzLTAuMjU5LDAuMTQ4LTAuMzUzIEwxNS44MTYsNy41MzNsLTIuODAzLTAuNjQ1Yy0wLjQ4NC0wLjExMi0wLjU4LTAuNDM1LTAuNTk5LTAuNTY5Yy0wLjAxOS0wLjEzMy0wLjAxNy0wLjQ3LDAuNDE4LTAuNzEybDIuOTY1LTEuNjQ0IGMwLjA3OC0wLjA0OSwwLjEzMi0wLjE1OSwwLjEyNS0wLjI3M2wtMC4zMTgtMi44MjNjLTAuMDU1LTAuNTAyLDAuMjItMC42OTMsMC4zNDEtMC43NTJjMC4wODEtMC4wMzksMC4xNjgtMC4wNTksMC4yNTktMC4wNTljMC4xODksMCwwLjM3MywwLjA4NiwwLjU0NiwwLjI1NWwxLjg1OSwxLjg1NmMwLjA1NCwwLjA0OCwwLjE0NCwwLjA4MSwwLjIzNiwwLjA4MWMwLjAzNiwwLDAuMDcxLTAuMDA1LDAuMTA1LTAuMDE0bDIuODY1LTAuOTU1YzAuMTAyLTAuMDM0LDAuMjAyLTAuMDUxLDAuMjk5LTAuMDUxYzAuMTk2LDAsMC4zNjgsMC4wNjgsMC40OTcsMC4xOTZjMC4xOTUsMC4xOTIsMC4yNTMsMC40OSwwLjE1NiwwLjc5N2wtMC45NjcsMi44OThjLTAuMDI3LDAuMTAzLDAuMDA4LDAuMjM3LDAuMDk2LDAuMzM0bDEuODM1LDEuODM1YzAuMzU3LDAuMzU3LDAuMjYsMC42OCwwLjIwMSwwLjgwM2MtMC4wNTEsMC4xMDYtMC4yMTQsMC4zNTQtMC42MzIsMC4zNTRsMCwwYy0wLjAzNywwLTAuMDc3LTAuMDAyLTAuMTE5LTAuMDA2bC0yLjg0OC0wLjMxNWMtMC4xLDAuMDAxLTAuMjA1LDAuMDYxLTAuMjYxLDAuMTVsLTEuNjM2LDIuOTQxYy0wLjIwNCwwLjM2OS0wLjQ4LDAuNDI0LTAuNjI2LDAuNDI0Yy0wLjAzMSwwLTAuMDU5LTAuMDAyLTAuMDg0LTAuMDA2Yy0wLjEzMy0wLjAxOS0wLjQ1Ny0wLjExNC0wLjU2OS0wLjU5OGwtMC42NDMtMi43ODVMMC44NjcsMjMuNzk5QzAuNzczLDIzLjg5MiwwLjY0OCwyMy45NDQsMC41MTUsMjMuOTQ0eiBNMTYuNDIzLDYuNjQ2YzAuNDc5LDAuMTM3LDAuODM3LDAuNDksMC45NjgsMC45NDlsMC41NjIsMi40MzJsMS4yNi0yLjI2NGMwLjI1My0wLjQwNSwwLjY3NC0wLjY0LDEuMTMzLTAuNjRjMC4wMjQsMCwwLjA0OCwwLjAwMSwwLjA3MiwwLjAwMmwxLjk1NiwwLjIxNmwtMS4yLTEuMmMtMC4zMzMtMC4zNjUtMC40NTMtMC44NTMtMC4zMjktMS4zMTJsMC44MTUtMi40NDVsLTIuNDE3LDAuODA1Yy0wLjEzOSwwLjAzOS0wLjI2OCwwLjA1Ny0wLjM5NywwLjA1N2MtMC4zNDEsMC0wLjY2OS0wLjEyNS0wLjkyMy0wLjM1NGwtMS4yMjEtMS4yMTlsMC4yMTcsMS45M2MwLjAzMSwwLjUwMS0wLjIwNCwwLjk2NC0wLjYxMywxLjIybC0yLjI4NywxLjI2OUwxNi40MjMsNi42NDZ6Ii8+PC9nPjwvc3ZnPg==), crosshair !important;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 40px;
+}
+
+.container {
+  padding: 64px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both
+}
+
+.column-66 {
+  float: left;
+  width: 66.66666%;
+  padding: 20px;
+}
+
+.column-33 {
+  float: left;
+  width: 33.33333%;
+  padding: 20px;
+}
+
+.large-font {
+  font-size: 48px;
+}
+
+.xlarge-font {
+  font-size: 64px
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #0081cb;
+  margin: 20px 0px;
+}
+
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 1000px) {
+  .column-66,
+  .column-33 {
+    width: 100%;
+    text-align: center;
+  }
+  img {
+    margin: auto;
+  }
+}
+
+.blur {
+  filter: blur(10px);
+}
